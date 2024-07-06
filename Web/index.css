@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.title{
+    position: relative;
+    color: aliceblue;
+    text-align: center;
+    font-size: 70px;
+}
+
+.about{
+    position:  relative;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.note{
+    position: relative;
+    color: aliceblue;
+}
